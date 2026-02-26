@@ -10,7 +10,7 @@ If you refer to me from a site not mentioned above and is not GitHub, I'd prefer
 
 My OpenPGP public key
 ---------------------
-If for any reason you'd like to send a message exclusively to me, use [my OpenPGP public key](https://github.com/studyingegret/.github/blob/main/studyingegret_public_key.asc) (fingerprint: `616B 6582 EBBD 9033 1485 8A74 ABD2 0217 5534 598E`). This requires software like GnuPG (and basic knowledge of public key encryption to feel safe about it). The encrypted message can be sent publicly or privately (at your choice), and the message cannot be decoded by anyone except me with my private key.
+If for any reason you'd like to send a message exclusively to me, use [my OpenPGP public key](https://github.com/studyingegret/.github/blob/main/studyingegret_public_key.asc) (fingerprint: `616B 6582 EBBD 9033 1485 8A74 ABD2 0217 5534 598E`). This requires software like GnuPG (and basic knowledge of public key encryption to feel safe about it). The encrypted message can be sent publicly or privately (at your choice), and the message cannot be decoded by anyone except me with my private key. Alternative store for the public key: [pastebin](https://pastebin.com/m6HzQmPa)
 
 FAQ
 ---
