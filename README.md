@@ -21,6 +21,6 @@ For legacy reasons, and also for the possibility that they'll protect me from be
 All of my accounts that I'm willing to reveal relationship to are listed above.
 
 ### I'll use your public key to decrypt a message from you
-I don't know why I'm writing this, but that's not how public key encryption works. The recipient gives their public key to the sender*, the sender uses it to encrypt their message, and the recipient decrypts it with their private key. So if you want to recieve a message from me you should send me your public key and its fingerprint so that I can encrypt for you.
+I don't know why I'm writing this, but that's not how public key encryption works. The recipient gives their public key to the sender*, the sender uses it to encrypt their message, and the recipient decrypts it with their private key. So if you want to recieve an encrypted message from me, you should send me your public key and its fingerprint* so that I can encrypt for you.
 
 \* You should also send the fingerprint of the public key, to prove that the public key is not intercepted by someone else, in which case a) you'll be unable to decode the message and b) the attacker will be able to decrypt it with its private key. I see this being neglected quite a lot
