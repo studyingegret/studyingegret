@@ -5,6 +5,7 @@ Social accounts
 | Where | Name |
 |-|-|
 | users.rust-lang.org, internals.rust-lang.org | bettertree |
+| rust-lang.zulipchat.com | Bettertree |
 
 If you refer to me from a site not mentioned above and is not GitHub, I'd prefer to be referred to with my GitHub account.
 
