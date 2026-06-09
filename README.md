@@ -5,6 +5,7 @@ Social accounts
 | Where | Name |
 |-|-|
 | users.rust-lang.org, internals.rust-lang.org | bettertree |
+| discuss.python.org | mfile_bay |
 | rust-lang.zulipchat.com* | Bettertree |
 
 \* Please avoid using this for a general private message because my Internet connection to it takes centuries.
